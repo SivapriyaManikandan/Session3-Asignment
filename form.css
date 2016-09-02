@@ -1,0 +1,23 @@
+.formstyle{
+width:450px;
+    padding:30px;
+    margin:40px auto;
+    background: #2A88AD;
+    border-radius: 10px;
+}
+.formstyle label{
+    display:inline-block;
+    float: left;
+    width: 100px;
+    padding:8px;
+    color: black;
+    font-weight: bold;
+    font-size: 13px;
+    text-shadow: 1px 1px 1px #fff;
+}
+.formstyle input[type="text"]{
+    border:1px solid white;
+    width:40%;
+  padding:8px 0px 8px 8px;
+  border-radius:5px;
+}
